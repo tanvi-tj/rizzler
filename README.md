@@ -1,7 +1,6 @@
 # rizzler 💌
 
-A tiny Python script to automatically send flirty messages on WhatsApp 
-
+A tiny Python script to automatically send flirty messages on WhatsApp - [Reel Link](https://www.instagram.com/reel/DJ_Ydd6IjW-/)
 ---
 
 ## What is this?
